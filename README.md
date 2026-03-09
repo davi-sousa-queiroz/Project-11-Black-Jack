@@ -1,4 +1,4 @@
-Blackjack (Python)
+(Project 11) Blackjack (March 9th, 2026)
 
 A simple terminal-based Blackjack game built in Python.
 
